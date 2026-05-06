@@ -1,0 +1,5 @@
+{
+  "name": "Automated Quiz Engine with PDF Certification Generation",
+  "description": "A pure PHP/MySQL student project for online testing with automated PDF certificate generation.",
+  "requestFramePermissions": []
+}
